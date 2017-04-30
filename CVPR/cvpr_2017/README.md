@@ -1,5 +1,7 @@
 ## CVPR 2017 Latex Template
 
+Check [here](http://cvpr2017.thecvf.com/submission/main_conference/author_guidelines) for details.
+
 To make a sample CVPR paper, copy the contents of this directory
 somewhere, and type
 
