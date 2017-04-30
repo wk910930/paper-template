@@ -1,5 +1,7 @@
 ## ECCV 2016 Latex Template
 
+Check [here](http://www.eccv2016.org/submission/) for details.
+
 To make a sample ECCV paper, copy the contents of this directory
 somewhere, and type
 
