@@ -1,5 +1,5 @@
 # Paper Template
-Collections of paper template for several conference.
+Collections of paper template for several computer vision related conference.
 
 Currently, we have latex template for the following conference:
 1. [Conference on Computer Vision and Pattern Recognition](CVPR) ([2017](NIPS/nips_2017))
