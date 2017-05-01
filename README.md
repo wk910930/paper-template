@@ -1,7 +1,7 @@
 # Paper Template
 Collections of paper template for several conference.
 
-Currently, we have
+Currently, we have latex template for the following conference:
 1. [Conference on Computer Vision and Pattern Recognition](CVPR) ([2017](NIPS/nips_2017))
 2. [European Conference on Computer Vision](ECCV) ([2016](ECCV/eccv_2016))
 3. [International Conference on Learning Representations](ICLR) ([2016](ICLR/iclr_2016))
