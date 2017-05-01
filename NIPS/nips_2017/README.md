@@ -23,10 +23,10 @@ The reviewers will not know the identities of the authors. It is the responsibil
 
 ### Camera-ready papers
 
-Please use the nips_2017.tex latex template (which uses nips_2017.sty) and compile with the [final] option:
+Please use the [nips_2017.tex](nips_2017.tex) latex template (which uses [nips_2017.sty](nips_2017.sty)) and compile with the `[final]` option:
 
-\usepackage[final]{nips_2017} % produce camera-ready copy
+`\usepackage[final]{nips_2017} % produce camera-ready copy`
 
-Note that the \nipsfinalcopy command is now obsolete.
+Note that the `\nipsfinalcopy` command is now obsolete.
 
 program-chairs@nips.cc
