@@ -1,2 +1,3 @@
+language: latex # specify your language
 after_script: # here's a build step block
 - echo "ALL PASSED"
