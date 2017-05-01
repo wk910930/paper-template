@@ -1,4 +1,7 @@
 # Paper Template
+
+[![Build Status](https://travis-ci.org/wk910930/paper-template.svg?branch=master)](https://travis-ci.org/wk910930/paper-template)
+
 Collections of paper template for several computer vision related conference.
 
 Currently, we have latex template for the following conference:
