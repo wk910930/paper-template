@@ -1,0 +1,2 @@
+after_script: # here's a build step block
+- echo "ALL PASSED"
