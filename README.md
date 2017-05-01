@@ -8,4 +8,4 @@ Currently, we have latex template for the following conference:
 4. [International Conference on Machine Learning](ICML) ([2017](ICML/icml_2017))
 5. [Conference on Neural Information Processing Systems](NIPS) ([2017](NIPS/nips_2017))
 
-I really appreciate it that if you can build it with me!
+We really appreciate it that if you can build it with us!
