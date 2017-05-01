@@ -1,3 +1,6 @@
-language: latex # specify your language
-after_script: # here's a build step block
-- echo "ALL PASSED"
+language: php
+php:
+  - 5.5
+  - 5.4
+  - hhvm
+script: phpunit
