@@ -10,7 +10,7 @@ Check [here](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pat
  
 Awarded at CVPR 2016:
 * Best Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-* Best Student Paper: Structural-RNN: Deep Learning on Spatio-Temporal Graphs, Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena
+* Best Student Paper: [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/abs/1511.05298), Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena
 * Best Paper Honorable Mention: Sublabel-Accurate Relaxation of Nonconvex Energies., Thomas Möllenhoff, Emanuel Laude, Michael Moeller, Jan Lellmann, Daniel Cremers
 
 Awarded at CVPR 2015:
