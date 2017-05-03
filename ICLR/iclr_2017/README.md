@@ -43,8 +43,8 @@ The program will include keynote presentations from invited speakers, oral prese
 
 ### Dual Submission Policy
 
-Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for 
-publication, or that have been submitted in parallel to other conferences or journals are not allowed and violate our dual \
-submission policy. However, papers that cite previous related work by the authors and papers that have appeared on non-peered \
-reviewed websites (like arXiv) or that have been presented at workshops (I.e., venues that do not have a publication proceedings) 
-do not violate the policy.
+Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for
+publication, or that have been submitted in parallel to other conferences or journals are not allowed and violate our dual
+submission policy.
+
+However, papers that cite previous related work by the authors and papers that have appeared on non-peered reviewed websites (like arXiv) or that have been presented at workshops (i.e., venues that do not have a publication proceedings) do not violate the policy.
