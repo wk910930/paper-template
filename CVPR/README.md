@@ -17,7 +17,7 @@ Awarded at CVPR 2015:
 * Best Paper: DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time Richard, A. Newcombe, Dieter Fox, Steven M. Seitz
 * Best Student Paper: Category-Specific Object Reconstruction from a Single Image, Abhishek Kar, Shubham Tulsiani, João Carreira, Jitendra Malik
 * Best Paper Honorable Mention: Efficient Globally Optimal Consensus Maximisation with Tree Search, Tat-Jun Chin, Pulak Purkait, Anders Eriksson, David Suter
-* Best Paper Honorable Mention: Fully Convolutional Networks for Semantic Segmentation, Jonathan Long, Evan Shelhamer, Trevor Darrell
+* Best Paper Honorable Mention: [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf), Jonathan Long, Evan Shelhamer, Trevor Darrell
 * Best Paper Honorable Mention: Picture: A Probabilistic Programming Language for Scene Perception, Tejas D Kulkarni, Pushmeet Kohli, Joshua B Tenenbaum, Vikash Mansinghka
 
 Awarded at CVPR 2014:
